@@ -4,4 +4,4 @@
 
 WhatFreeWords is a free and open-source, compatible implementation of the What3Words geocoding.
 
-See https://archive.is/e26a7#selection-221.0-335.39
+See https://archive.is/e26a7
