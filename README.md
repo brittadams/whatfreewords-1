@@ -7,3 +7,4 @@ WhatFreeWords is a free and open-source, compatible implementation.
 See https://archive.is/e26a7
 
 JS Source https://cryptome.org/2021/04/WhatFreeWords-Javascript-Library.txt
+Python Source https://cryptome.org/2021/04/whatfreewords-py.tar.gz
