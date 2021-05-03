@@ -1,7 +1,7 @@
-# Open-source geocoding for What3Words
+# Open-source geocoding
 
 37.234328,-115.806657 == joyful.nail.harmonica
 
-WhatFreeWords is a free and open-source, compatible implementation of the What3Words geocoding.
+WhatFreeWords is a free and open-source, compatible implementation.
 
 See https://archive.is/e26a7
